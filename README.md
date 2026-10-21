@@ -1,0 +1,2 @@
+# 1st-repo-demo
+THIS IS MY 1ST GIT REPOSITORY
